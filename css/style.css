@@ -8,7 +8,7 @@
 
 #homedesu {
  
-  background-image:url("http://www.daniere.com/wp-content/uploads/2015/03/slider-background.jpg");
+  background-image:url("../images/bbg.jpg");
   background-color: steelblue;
   background-attachment: fixed;
   width=100%;
@@ -42,7 +42,7 @@ background-size:100% 100%;
   width:100% auto;
   padding: 50px 0px 50px 0px;
   position:relative;
-  background-image:url("https://i.vimeocdn.com/video/531617009_1280x720.jpg");
+  background-image:url("../images/lbg.jpg");
    background-attachment: fixed;
 }
 
@@ -107,7 +107,7 @@ box-shadow: 0 0 15px;
     overflow:hidden;
 background-size:100% 100%;
   height:500px auto;
-   background-image:url("http://wallpicshd.com/wp-content/uploads/2013/04/Free-Cool-3D-Wallpaper-HD.jpg");
+   background-image:url("../images/bbg.jpg");
    padding: 50px 20px 50px 100px;
   background-color: black;
 }
@@ -141,7 +141,7 @@ background-size:100% 100%;
   transition:all 2s,tarsform 2s,ease-in-out;
 }
 .coverpic img:hover{  
-  opacity:.8;
+  opacity:.3;
     -webkit-transform:scale(1.2);
   transform:scale(1.2);
 }
@@ -172,7 +172,7 @@ background-size:100% 100%;
   -o-transform: scale(0.5);
   -moz-transform: scale(0.5);
   -webkit-transform: scale(0.5);
-  content: url("https://tcrf.net/images/4/4d/Hamsterheroes_placeholder.png");
+  content: url("../images/ph.png");
 }
 
 /* This is a masking container for the zoomed iframe element */
