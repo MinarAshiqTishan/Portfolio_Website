@@ -75,6 +75,19 @@ background-size:100% 100%;
   
 }
 
+
+.fr{
+
+  transition: all 1s;
+border: 1px solid;
+}
+
+.fr:hover{
+	color:white;
+  background-color:#303030;
+}
+
+
 .mememe{
   border-right-width:2px;
   border-right-style:solid;
