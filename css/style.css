@@ -177,6 +177,7 @@ background-size:100% 100%;
 
 /* This is a masking container for the zoomed iframe element */
 .thumbnail {
+	 background: #000;
   -ms-zoom: @thumbnail-zoom;
   -moz-transform: scale(@thumbnail-zoom);
   -moz-transform-origin: 0 0;
